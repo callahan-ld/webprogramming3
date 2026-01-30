@@ -4,3 +4,7 @@ Patrick: "Who are you calling pinhead?"
 Github:
 Squidward: "Who wants a Krabby Patty at 3am?"
 Patrick: "Oh boy, 3am!"
+
+Local:
+Perkins: "What inspired you to build a second Krusty Krab, right next to the original?"
+Krabs: "Money"
