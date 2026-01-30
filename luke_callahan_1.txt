@@ -1,2 +1,6 @@
 Spongebob: "Alright pinhead, your time is up!"
 Patrick: "Who are you calling pinhead?"
+
+Github:
+Squidward: "Who wants a Krabby Patty at 3am?"
+Patrick: "Oh boy, 3am!"
